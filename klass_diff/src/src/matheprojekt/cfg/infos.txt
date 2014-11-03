@@ -1,0 +1,27 @@
+
+
+
+
+     Dieses Programm veranschaulicht die 
+     Klassische Methode des Differenzierens.
+     KlassDiff ist eine Projektarbeit 
+     im Fach AnTe der 12.Klasse 
+     des Beruflichen Gymnasiums Mühlhausen 2007. 
+
+     Steve Göring ist der Autor 
+     von diesem Programm und übernimmt 
+     keinerlei Haftung für eventuell 
+     entstehende Schäden bei der Benutzung 
+     dieser Software. 
+
+     Das Copyright dieser Software liegt 
+     beim Autor Steve Göring.
+     Bei eventuell auftretenden 
+     Problemen (Bugs) können Sie mir gerne 
+     eine Email senden ( stg7@gmx.de ). 
+
+     Mathematik sollte plattformunabhängig sein! 
+     Deshalb Java!
+
+     Java, Sun und so weiter sind eingetragene 
+     Marken dieser genannten Firmen.
