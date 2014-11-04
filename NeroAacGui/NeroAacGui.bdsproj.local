@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008.07.04 17:41:20.000.pas,D:\System\Profile\Steve\Eigene Dateien\Borland Studio-Projekte\Unit1.pas=D:\System\Profile\Steve\Desktop\neroAac Gui\Uhaupt.pas</Transaction>
+    <Transaction>2008.07.04 17:41:20.015.dfm,D:\System\Profile\Steve\Eigene Dateien\Borland Studio-Projekte\Unit1.dfm=D:\System\Profile\Steve\Desktop\neroAac Gui\Uhaupt.dfm</Transaction>
+    <Transaction>2008.07.04 17:41:28.546.bdsproj,D:\System\Profile\Steve\Eigene Dateien\Borland Studio-Projekte\Project1.bdsproj=D:\System\Profile\Steve\Desktop\neroAac Gui\NeroAacGui.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>

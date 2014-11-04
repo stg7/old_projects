@@ -1,0 +1,1 @@
+lame --preset cbr 128 %1

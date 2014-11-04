@@ -69,3 +69,7 @@ vigenere and caesar test proggys (written in python3)
 huffman
 -------
 huffman implementation in python (for demo) with dot output
+
+LameGui & NeraAacGui
+--------------------
+GUIs for lame and neroaac
