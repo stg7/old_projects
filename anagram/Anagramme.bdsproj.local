@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008.05.02 23:55:24.921.pas,D:\System\Profile\Steve\Eigene Dateien\Borland Studio-Projekte\Unit1.pas=D:\System\Profile\Steve\Desktop\Anagramme\UHaupt.pas</Transaction>
+    <Transaction>2008.05.02 23:55:24.921.dfm,D:\System\Profile\Steve\Eigene Dateien\Borland Studio-Projekte\Unit1.dfm=D:\System\Profile\Steve\Desktop\Anagramme\UHaupt.dfm</Transaction>
+    <Transaction>2008.05.02 23:55:26.968.bdsproj,D:\System\Profile\Steve\Eigene Dateien\Borland Studio-Projekte\Project1.bdsproj=D:\System\Profile\Steve\Desktop\Anagramme\Anagramme.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>

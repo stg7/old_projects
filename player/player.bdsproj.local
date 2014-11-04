@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008.07.04 20:44:50.187.pas,D:\System\Profile\Steve\Eigene Dateien\Borland Studio-Projekte\Unit1.pas=D:\System\Profile\Steve\Desktop\Player\UHaupt.pas</Transaction>
+    <Transaction>2008.07.04 20:44:50.187.dfm,D:\System\Profile\Steve\Eigene Dateien\Borland Studio-Projekte\Unit1.dfm=D:\System\Profile\Steve\Desktop\Player\UHaupt.dfm</Transaction>
+    <Transaction>2008.07.04 20:44:52.890.bdsproj,D:\System\Profile\Steve\Eigene Dateien\Borland Studio-Projekte\Project1.bdsproj=D:\System\Profile\Steve\Desktop\Player\player.bdsproj</Transaction>
+    <Transaction>2008.07.16 02:03:25.906.pas,C:\Dokumente und Einstellungen\Steve\Desktop\Player\Unit2.pas=C:\Dokumente und Einstellungen\Steve\Desktop\Player\UPlaylist.pas</Transaction>
+    <Transaction>2008.07.16 02:03:25.906.dfm,C:\Dokumente und Einstellungen\Steve\Desktop\Player\Unit2.dfm=C:\Dokumente und Einstellungen\Steve\Desktop\Player\UPlaylist.dfm</Transaction>
+    <Transaction>2008.07.17 04:10:03.125.pas,C:\Dokumente und Einstellungen\Steve\Desktop\Player\Unit1.pas=C:\Dokumente und Einstellungen\Steve\Desktop\Player\UPlayer.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,8 @@
+Steuerung
+
+W/Oben    = Hoch
+S/Unten   = Runter
+A/Links   = Links
+D/Rechts  = Rechts
+Leertaste = Springen
+Esc       = Hauptmenü 

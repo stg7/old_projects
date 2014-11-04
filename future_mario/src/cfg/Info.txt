@@ -1,0 +1,8 @@
+Wurde von Steve Göhring und Daniel Renner als Projektarbeit
+ für den Jahrgang 2007/2008 
+des Stammkurses BgStk05.3 im Fach Angewandte Technik 
+des Beruflichen Gymnasium Mühlhausens gecoded.
+
+Copyright 2007/2008
+  Stg7@gmx.de
+  Daniel26289@yahoo.de

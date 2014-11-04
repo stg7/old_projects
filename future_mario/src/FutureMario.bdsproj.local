@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008.02.19 22:33:28.109.pas,G:\delphi_projekte\SuperMario\Unit1.pas=G:\delphi_projekte\SuperMario\USpieler.pas</Transaction>
+    <Transaction>2008.03.19 16:39:41.984.pas,G:\delphi_projekte\SuperMario\03_19_V2\Unit1.pas=G:\delphi_projekte\SuperMario\03_19_V2\UListe.pas</Transaction>
+    <Transaction>2008.03.19 23:19:11.156.pas,C:\Dokumente und Einstellungen\Administrator\Desktop\03_19_V3\Unit1.pas=C:\Dokumente und Einstellungen\Administrator\Desktop\03_19_V3\UFunktion.pas</Transaction>
+    <Transaction>2008.03.19 23:38:30.078.pas,C:\Dokumente und Einstellungen\Administrator\Desktop\03_19_V3\Unit1.pas=C:\Dokumente und Einstellungen\Administrator\Desktop\03_19_V3\UGegner.pas</Transaction>
+    <Transaction>2008.03.20 04:23:28.796.pas,D:\Sys\Profile\Administrator\Desktop\03_20_V1\Unit1.pas=D:\Sys\Profile\Administrator\Desktop\03_20_V1\UHilfe.pas</Transaction>
+    <Transaction>2008.03.20 04:23:28.796.dfm,D:\Sys\Profile\Administrator\Desktop\03_20_V1\Unit1.dfm=D:\Sys\Profile\Administrator\Desktop\03_20_V1\UHilfe.dfm</Transaction>
+    <Transaction>2008.03.20 04:27:00.828.pas,D:\Sys\Profile\Administrator\Desktop\03_20_V1\Unit1.pas=D:\Sys\Profile\Administrator\Desktop\03_20_V1\UInfo.pas</Transaction>
+    <Transaction>2008.03.20 04:27:00.828.dfm,D:\Sys\Profile\Administrator\Desktop\03_20_V1\Unit1.dfm=D:\Sys\Profile\Administrator\Desktop\03_20_V1\UInfo.dfm</Transaction>
+    <Transaction>2008.03.20 09:44:01.875.pas,D:\Sys\Profile\Administrator\Desktop\03_20_V1\Unit1.pas=D:\Sys\Profile\Administrator\Desktop\03_20_V1\Objekte\UMuenze.pas</Transaction>
+    <Transaction>2008.03.20 11:08:55.218.pas,D:\Sys\Profile\Administrator\Desktop\03_20_V1\Unit1.pas=D:\Sys\Profile\Administrator\Desktop\03_20_V1\UTypenUndKonstanten.pas</Transaction>
+    <Transaction>2008.03.20 12:44:36.421.pas,D:\Sys\Profile\Administrator\Desktop\03_20_V1\Unit1.pas=D:\Sys\Profile\Administrator\Desktop\03_20_V1\UPunkte.pas</Transaction>
+    <Transaction>2008.03.20 12:44:36.421.dfm,D:\Sys\Profile\Administrator\Desktop\03_20_V1\Unit1.dfm=D:\Sys\Profile\Administrator\Desktop\03_20_V1\UPunkte.dfm</Transaction>
+    <Transaction>2008.03.23 13:25:22.625.pas,D:\Sys\Profile\Administrator\Desktop\03_22_V1_Änderungen an verschiedenen Klassen\Unit1.pas=D:\Sys\Profile\Administrator\Desktop\03_22_V1_Änderungen an verschiedenen Klassen\UImageButton.pas</Transaction>
+    <Transaction>2008.03.23 14:40:24.968.pas,D:\Sys\Profile\Administrator\Desktop\03_22_V1_Änderungen an verschiedenen Klassen\Unit1.pas=D:\Sys\Profile\Administrator\Desktop\03_22_V1_Änderungen an verschiedenen Klassen\UIntro.pas</Transaction>
+    <Transaction>2008.03.23 14:40:24.968.dfm,D:\Sys\Profile\Administrator\Desktop\03_22_V1_Änderungen an verschiedenen Klassen\Unit1.dfm=D:\Sys\Profile\Administrator\Desktop\03_22_V1_Änderungen an verschiedenen Klassen\UIntro.dfm</Transaction>
+    <Transaction>2008.03.23 15:19:40.593.pas,D:\Sys\Profile\Administrator\Desktop\03_22_V1_Änderungen an verschiedenen Klassen\UFunktion.pas=D:\Sys\Profile\Administrator\Desktop\03_22_V1_Änderungen an verschiedenen Klassen\UFunktionen.pas</Transaction>
+    <Transaction>2008.03.25 17:36:07.937.pas,D:\Sys\Profile\Administrator\Desktop\03_25_V1_Anpassungen\Unit1.pas=D:\Sys\Profile\Administrator\Desktop\03_25_V1_Anpassungen\UOptionenSound.pas</Transaction>
+    <Transaction>2008.03.25 17:36:34.171.pas,D:\Sys\Profile\Administrator\Desktop\03_25_V1_Anpassungen\UOptionenSound.pas=</Transaction>
+    <Transaction>2008.03.25 17:36:44.312.pas,D:\Sys\Profile\Administrator\Desktop\03_25_V1_Anpassungen\Unit1.pas=D:\Sys\Profile\Administrator\Desktop\03_25_V1_Anpassungen\UOptionnSound.pas</Transaction>
+    <Transaction>2008.03.25 17:36:44.312.dfm,D:\Sys\Profile\Administrator\Desktop\03_25_V1_Anpassungen\Unit1.dfm=D:\Sys\Profile\Administrator\Desktop\03_25_V1_Anpassungen\UOptionnSound.dfm</Transaction>
+    <Transaction>2008.03.25 17:50:47.234.pas,D:\Sys\Profile\Administrator\Desktop\03_25_V1_Anpassungen\UOptionnSound.pas=D:\Sys\Profile\Administrator\Desktop\03_25_V1_Anpassungen\UOptionenSound.pas</Transaction>
+    <Transaction>2008.03.25 17:50:47.234.dfm,D:\Sys\Profile\Administrator\Desktop\03_25_V1_Anpassungen\UOptionnSound.dfm=D:\Sys\Profile\Administrator\Desktop\03_25_V1_Anpassungen\UOptionenSound.dfm</Transaction>
+    <Transaction>2008.03.25 18:18:10.625.pas,D:\Sys\Profile\Administrator\Desktop\03_25_V1_Anpassungen\Unit1.pas=D:\Sys\Profile\Administrator\Desktop\03_25_V1_Anpassungen\UOptionen.pas</Transaction>
+    <Transaction>2008.03.26 17:58:07.296.pas,D:\Sys\Profile\Administrator\Desktop\03_26_V1_Optionskram\Unit1.pas=D:\Sys\Profile\Administrator\Desktop\03_26_V1_Optionskram\UFOptionen.pas</Transaction>
+    <Transaction>2008.03.26 18:01:18.593.pas,D:\Sys\Profile\Administrator\Desktop\03_26_V1_Optionskram\Unit1.pas=D:\Sys\Profile\Administrator\Desktop\03_26_V1_Optionskram\Optionen\UOptionenGrafik.pas</Transaction>
+    <Transaction>2008.03.26 18:02:44.109.pas,D:\Sys\Profile\Administrator\Desktop\03_26_V1_Optionskram\UOptionenSound.pas=D:\Sys\Profile\Administrator\Desktop\03_26_V1_Optionskram\Optionen\UOptionenSound.pas</Transaction>
+    <Transaction>2008.03.26 18:02:44.109.dfm,D:\Sys\Profile\Administrator\Desktop\03_26_V1_Optionskram\UOptionenSound.dfm=D:\Sys\Profile\Administrator\Desktop\03_26_V1_Optionskram\Optionen\UOptionenSound.dfm</Transaction>
+    <Transaction>2008.03.26 18:04:48.046.pas,D:\Sys\Profile\Administrator\Desktop\03_26_V1_Optionskram\UOptionen.pas=D:\Sys\Profile\Administrator\Desktop\03_26_V1_Optionskram\Optionen\UOptionen.pas</Transaction>
+    <Transaction>2008.03.26 18:55:48.218.pas,D:\Sys\Profile\Administrator\Desktop\03_26_V1_Optionskram\Unit1.pas=D:\Sys\Profile\Administrator\Desktop\03_26_V1_Optionskram\UMenu.pas</Transaction>
+    <Transaction>2008.03.26 18:55:48.234.dfm,D:\Sys\Profile\Administrator\Desktop\03_26_V1_Optionskram\Unit1.dfm=D:\Sys\Profile\Administrator\Desktop\03_26_V1_Optionskram\UMenu.dfm</Transaction>
+    <Transaction>2008.03.28 18:10:07.703.bdsproj,D:\Sys\Profile\Administrator\Desktop\03_28_V1_eigen dateien für gegner und Münzen\Test.bdsproj=D:\Sys\Profile\Administrator\Desktop\03_28_V1_eigen dateien für gegner und Münzen\FutureMario.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>

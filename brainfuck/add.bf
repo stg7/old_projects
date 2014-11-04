@@ -1,0 +1,15 @@
+#!/usr/local/bin/brainfuck 
+,
+>
+,
+[
+ -
+ < + >
+]
+<
+.
+
+
+
+
+

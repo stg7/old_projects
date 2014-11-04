@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008.03.19 18:51:03.140.pas,D:\Sys\Profile\Administrator\Eigene Dateien\Borland Studio-Projekte\Unit1.pas=G:\delphi_projekte\SuperMario\03_19_V3\maps\Leveleditor\Unit1.pas</Transaction>
+    <Transaction>2008.03.19 18:51:03.156.dfm,D:\Sys\Profile\Administrator\Eigene Dateien\Borland Studio-Projekte\Unit1.dfm=G:\delphi_projekte\SuperMario\03_19_V3\maps\Leveleditor\Unit1.dfm</Transaction>
+    <Transaction>2008.03.20 00:56:07.968.pas,D:\Sys\Profile\Administrator\Desktop\03_19_V3\maps\Leveleditor\Unit3.pas=D:\Sys\Profile\Administrator\Desktop\03_19_V3\maps\Leveleditor\UGegnerLaden.pas</Transaction>
+    <Transaction>2008.03.29 13:57:17.218.pas,D:\Sys\Profile\Administrator\Desktop\03_28_V1_eigen dateien für gegner und Münzen\maps\Leveleditor\Unit4.pas=D:\Sys\Profile\Administrator\Desktop\03_28_V1_eigen dateien für gegner und Münzen\maps\Leveleditor\Utypen.pas</Transaction>
+    <Transaction>2008.03.29 15:59:38.500.pas,D:\Sys\Profile\Administrator\Desktop\03_28_V1_eigen dateien für gegner und Münzen\maps\Leveleditor\Unit3.pas=</Transaction>
+    <Transaction>2008.03.30 00:05:57.671.pas,D:\Sys\Profile\Administrator\Desktop\03_29_V1_Level Editor fertig\Tools\Leveleditor\Unit1.pas=D:\Sys\Profile\Administrator\Desktop\03_29_V1_Level Editor fertig\Tools\Leveleditor\UHaupt.pas</Transaction>
+    <Transaction>2008.03.30 00:05:57.671.dfm,D:\Sys\Profile\Administrator\Desktop\03_29_V1_Level Editor fertig\Tools\Leveleditor\Unit1.dfm=D:\Sys\Profile\Administrator\Desktop\03_29_V1_Level Editor fertig\Tools\Leveleditor\UHaupt.dfm</Transaction>
+    <Transaction>2008.03.30 00:06:31.281.pas,D:\Sys\Profile\Administrator\Desktop\03_29_V1_Level Editor fertig\Tools\Leveleditor\Unit2.pas=D:\Sys\Profile\Administrator\Desktop\03_29_V1_Level Editor fertig\Tools\Leveleditor\UTileMap.pas</Transaction>
+    <Transaction>2008.03.30 00:06:31.281.dfm,D:\Sys\Profile\Administrator\Desktop\03_29_V1_Level Editor fertig\Tools\Leveleditor\Unit2.dfm=D:\Sys\Profile\Administrator\Desktop\03_29_V1_Level Editor fertig\Tools\Leveleditor\UTileMap.dfm</Transaction>
+    <Transaction>2008.03.30 00:06:44.796.bdsproj,D:\Sys\Profile\Administrator\Desktop\03_29_V1_Level Editor fertig\Tools\Leveleditor\Project1.bdsproj=D:\Sys\Profile\Administrator\Desktop\03_29_V1_Level Editor fertig\Tools\Leveleditor\LevelEditor.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>

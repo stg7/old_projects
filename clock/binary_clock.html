@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>binary clock</title>
+</head>
+<body>
+<script>
+
+	
+window.onload = function() {
+	// clock start
+	renderClock();
+}	
+function renderClock(){
+	var canvas=document.getElementById('clock');
+	var context = canvas.getContext("2d");
+	context.clearRect ( 0 , 0 , canvas.width ,canvas.height );
+
+	var date = new Date();
+	var h = date.getHours();
+	var m = date.getMinutes();
+	var s = date.getSeconds();
+	var a= new Array(Math.floor(h/10) ,h % 10 ,Math.floor(m/10),m % 10, Math.floor(s/10), s %10); // looks bad
+	
+	for(var j=0; j< 6 ; j++){		
+		var x= a[j];
+		var bin="";
+		for(var i=3; i>= 0 ; i--){
+			if(x % 2 ==0){ // even x 
+				bin="0"+bin;
+				context.fillStyle="#00FF00";
+			}else{
+				context.fillStyle="#FF0000";
+				bin="1"+bin;
+			}	
+			if(x!=0){
+				context.beginPath();
+				context.arc(40*j+20,40*i+20,15,0,Math.PI*2,true);
+				context.closePath();
+				context.fill();
+				x= Math.floor(x/2);
+			}	
+		}	
+		i=4;
+		context.fillStyle="#0000FF";
+		context.fillText  (a[j] , 40*j+20,40*i+20);
+		i++;
+		context.fillStyle="#0000FF";
+		context.fillText  (bin , 40*j+20,40*i+20);
+		
+	}	
+	var timeout = window.setTimeout("renderClock()", 1000); // create new timeout event
+}
+
+</script>
+<canvas id="clock" width="300" height="300" onclick="clickOnUI()">
+<p>Your browser doesn't support canvas.</p>
+</canvas> 
+</body>
+</html>

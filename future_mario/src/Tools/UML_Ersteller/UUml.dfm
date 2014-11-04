@@ -1,0 +1,41 @@
+object FUML: TFUML
+  Left = 177
+  Top = 140
+  BorderStyle = bsDialog
+  Caption = 'FUML'
+  ClientHeight = 344
+  ClientWidth = 300
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poDesigned
+  Visible = True
+  PixelsPerInch = 96
+  TextHeight = 13
+  object LBMethoden: TListBox
+    Left = 24
+    Top = 127
+    Width = 259
+    Height = 160
+    BevelOuter = bvNone
+    Enabled = False
+    ImeMode = imAlpha
+    IntegralHeight = True
+    ItemHeight = 13
+    TabOrder = 0
+  end
+  object LBAttribute: TListBox
+    Left = 24
+    Top = 28
+    Width = 259
+    Height = 69
+    Enabled = False
+    ExtendedSelect = False
+    ItemHeight = 13
+    TabOrder = 1
+  end
+end
