@@ -1,7 +1,7 @@
 old_projects
 ============
 
-some old projects from school (written in turbo pascal, delphi, java or freebasic)
+some old projects from school/uni (written in turbo pascal, delphi, java or freebasic)
 
 
 future
